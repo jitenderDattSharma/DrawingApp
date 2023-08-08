@@ -3,7 +3,7 @@ Drawing App
 Welcome to the Local Drawing App! This simple drawing application allows you to create beautiful drawings and sketches right on your computer using HTML, CSS, and JavaScript.
 
 
-Features
+FEATURES
 
 Drawing Canvas: A blank canvas is provided for you to draw and create to your heart's content.
 
@@ -14,7 +14,7 @@ Color Palette: Select from a wide range of colors to add vibrancy and life to yo
 Erase, Save and Reset: Correct mistakes easily with the eraser tool on your computer, load previous drawings and reset the canvas.
 
 
-Getting Started
+GETTING STARTED
 
 To run the Local Drawing App on your computer, follow these simple steps:
 
